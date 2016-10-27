@@ -1,5 +1,5 @@
 module OpenWeather
-  API_KEY = '29583c9be58c2a1b546d2cadc4c193b5'
+  API_KEY = 'ENV['API_KEY']'
   CITY = 'Atlanta'
   COUNTRY = 'us'
 end
