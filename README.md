@@ -14,5 +14,5 @@ OpenWeather::Current.weather
 ```
 Forecast:
 ```ruby
-OpenWeather::Current.weather
+OpenWeather::Forecast.weathers
 ```
